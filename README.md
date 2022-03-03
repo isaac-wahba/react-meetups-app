@@ -1,4 +1,4 @@
-# React-core-concepts-refresher
+# React Meetup App
 
 ## In This Project, I've applied ReactJs core concepts:
 
